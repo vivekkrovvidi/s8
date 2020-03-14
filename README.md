@@ -15,7 +15,7 @@ https://github.com/vivekkrovvidi/s8/tree/master/resnet
 
 we got 85% accuracy at 8th EPOCH and 90% accuracy at 13th EPOCH
 
-https://github.com/meenuraji/S8/blob/master/Copy_of_S8withoutFC.ipynb
+https://github.com/vivekkrovvidi/s8/blob/master/Copy_of_Copy_of_S8withoutFC.ipynb
 
 My Team Members
 
