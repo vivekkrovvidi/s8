@@ -11,7 +11,7 @@ https://github.com/vivekkrovvidi/s8/tree/master/resnet%20model
 
 We changed the code to replace FC layer to point wise convolution layer 
 
-https://github.com/meenuraji/S8/tree/master/resnet
+https://github.com/vivekkrovvidi/s8/tree/master/resnet
 
 we got 85% accuracy at 8th EPOCH and 90% accuracy at 13th EPOCH
 
